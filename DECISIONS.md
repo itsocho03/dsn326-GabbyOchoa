@@ -29,3 +29,4 @@ For an AI entry, same shape: which tool, what for, what you kept, what you chang
 **Why:**
 **What I gave up:**
 **What would change this:**
+
