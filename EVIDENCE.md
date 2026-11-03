@@ -23,9 +23,15 @@ Keeping raw evidence separate from your reading of it is what lets you change yo
 
 ## Week 1: Rail parity check
 
+
 | Token | Figma value | `tokens.css` value | Agree? |
 |---|---|---|---|
-|  |  |  |  |
+| primary/50 | #FEF3EE | #FEF3EE | yes |
+| type/body | 400px | 400px | yes |
+| space/inset/lg | 24 | 20 | no, value should be taken from Figma |
+| radius/md | 12px | 12px | yes |
+| comfortable (gap) | 8px | 8px | yes |
+
 
 ---
 
