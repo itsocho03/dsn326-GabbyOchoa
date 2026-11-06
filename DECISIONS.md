@@ -1,14 +1,5 @@
 # Decisions
-
-*Every decision you make this term, with a date and a reason. Your AI log lives here too.*
-
-Replace this placeholder in Week 1. Put something real in it — your backlog item and why you picked it is a decision like any other.
-
-**What goes in:** decisions, the gaps you closed and how, what you declined to do, what you cut, system decisions, anything you re-framed later, and your AI log. **What doesn't:** raw findings. Those go in [EVIDENCE.md](EVIDENCE.md).
-
-Write it as you go. Reconstructing this in Week 7 produces a file that reads like a case study rather than a record, and the design walkthrough will find the difference.
-
-Full structure is in the **Decision Record** template. The short version:
+I choose my backlog item to be Heard-226. This item is named Pickup times are wrong when the kitchen is slammed. I choose it because I have worked in the restaurant business all my life, and so I am familiar with this issue, and how confusing things can be with tickets, and time management during a rush. 
 
 ```markdown
 ## 2026-09-14 — Chose Option B over A
