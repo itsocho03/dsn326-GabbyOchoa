@@ -24,13 +24,33 @@ Keeping raw evidence separate from your reading of it is what lets you change yo
 ## Week 1: Rail parity check
 
 
+
 | Token | Figma value | `tokens.css` value | Agree? |
-|---|---|---|---|
+|---|---|---|---|comfortable|
 | primary/50 | #FEF3EE | #FEF3EE | yes |
-| type/body | 400px | 400px | yes |
-| space/inset/lg | 24 | 20 | no, value should be taken from Figma |
+| type/body/weight | 400| 400 | Yes, both have the same font-weight(thickness) |
+| type/body/size  | 13px | 16px | body size is not the same; figma is 13px while the css code is 16px. value should be taken from Figma since the source of truth sepcifiec that the origin is figma for any font sizing errors.|
 | radius/md | 12px | 12px | yes |
 | comfortable (gap) | 8px | 8px | yes |
+
+
+ Token | Figma value | `tokens.css` value | Agree? |
+|---|---|---|---|compact|
+| type/body/size| 14px| 14px | yes |
+| type/body/line | 22px| 22px | Yes|
+| space/inset/md | 12px | 12px | yes |
+|  space/inset/lg | 16px | 16px | yes|
+|  space/inset/sm | 6px | 6px | yes |
+
+| Figma value | `tokens.css` value | Agree? |
+|---|---|---|---|service|
+| type/body/size| 24px| 24px | yes |
+| type/body/line | 32px| 32px | Yes|
+| space/inset/md | 24px | 24px | yes |
+| space/inset/sm | 12px | 12px | yes |
+| space/inset/lg | 32px | 32px | yes |
+
+
 
 
 ---
