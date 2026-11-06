@@ -13,6 +13,14 @@ I choose my backlog item to be Heard-226. This item is named Pickup times are wr
 For an AI entry, same shape: which tool, what for, what you kept, what you changed. Directing a tool is a decision.
 
 ---
+5-task script 
+
+1)Open app and find the first step(Order)
+2)Place order for family meal, schedule a pickup time. 
+3)Navigate to expo tickets, to see the order details 
+4)Look through ticket times, and get important information (Time, food allergies,number etc.)
+5)Reorganize orders oldest to newest 
+
 
 ## YYYY-MM-DD — [your first decision]
 
