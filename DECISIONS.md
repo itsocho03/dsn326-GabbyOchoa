@@ -23,3 +23,18 @@ Script
 4)You have a budget of 150 to spend for everyone's food (including yours). 
 5)You need to pick up the food in an hour, so that it is fresh. 
 
+
+
+Gap CLosure 
+                                                    the missing number. 
+“Pickup times are wrong.” How often, and out of how many pickup orders? Dev’s PM pack has this.
+There are no options to choose pickup times, and the checkout only has an order number, no confirmation email/text, and also no final pickup time est. 
+
+                                             The fix pretending to be a problem. 
+
+ The problem of that solution would be that people often re-order the same and may not want to complete their order if they have to continuously do it. Having the ability to have a foundation even if you later want to add or change something to it is convenient. 
+
+
+                                              The constraint nobody wrote down.
+
+The constraints of having no tooltip, no popover, no accordion, table, pagination, or avatar, are all negatively impacting the app. Because rail has these constraints, the nav could be harder to read on a smaller tab and thus easier to make mistakes for both staff and guests. Another other thing is the backup of tables and popovers. Both of which help tremendously aid in leggability, and trustworthiness. In the legacy folder the estimated time is constantly set for 20 minutes, this will not change unless stopped during a rush. 
