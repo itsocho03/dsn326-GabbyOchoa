@@ -25,8 +25,7 @@ Script
 
 
 
-Gap CLosure 
-                                                    the missing number. 
+                                                      Gap CLosure 
 “Pickup times are wrong.” How often, and out of how many pickup orders? Dev’s PM pack has this.
 There are no options to choose pickup times, and the checkout only has an order number, no confirmation email/text, and also no final pickup time est. 
 
