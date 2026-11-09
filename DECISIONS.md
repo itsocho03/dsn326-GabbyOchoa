@@ -12,7 +12,6 @@ I choose these five tasks because I believe that it best represents how I envisi
 
 
 
-For an AI entry, same shape: which tool, what for, what you kept, what you changed. Directing a tool is a decision.
 
 ---
 5-task script 
