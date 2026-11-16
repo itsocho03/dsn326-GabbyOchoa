@@ -52,12 +52,25 @@ Script
 
 ---
 
-## Sessions
+Week 2: Studio B 
 
-### P1 — YYYY-MM-DD, round [1/2]
+                                                          Framed problem: 
+The heard guest-line is very confusing. For starters, its main problem is failing heuristic #1 (visibility of system status). It fails the first rule because of its lack of feedback during the checkout process.  During checkout, users need to feel trust towards the application, you achieve this through clear communication of each part but my examination proves that this checkout process led to a lot of hesitation to continue forward. On a technical standpoint, there is a pickup time option dropbar, that is inaccessible to the client. In addition to this issue, there is a lack of information and confirmation details when order has been placed. This led both of my participants to claim they would need more information to feel as though the process is complete, and they can trust their order will be finished on time and fresh. 
 
-**Consent:** 
-**Setup:** 
-**Task 1:** 
-**Task 2:** 
+
+                                                          Patterns: 
+Both Baylee and Felipe hesitated a few times when doing the experiment. Noticeably, they both hesitated when making changes to original meals. Both of them were confused during checkout, unable to change pickup time, and wanted a receipt/email and confirmation of order and person ordering. 
+
+
+                                                   Three moments worth quoting:
+___Hestiation when removing cheese and veggies for each of the meals
+______confusion when pickup times down arrow didnt open
+_______confusion during checkout, feeling incomplete
+
+
+                                                       Success Measure:
+Participants can choose pickup times, and later confirm what final pickup time, and order summary is presented. This must be for both participants with no expectation. If participants feel the checkout process is incomplete and they are unsure of pickup times the measure is failed.
+
+
+
 
