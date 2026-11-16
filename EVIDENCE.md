@@ -3,8 +3,7 @@
 
 HEARD-226 Pickup times are wrong when the kitchen is slammed
 
-You are a single mother of 4, ordering takeout from a new restaurant. Build an order for the five of you, keep in mind, each of your kids cannot have vegetables or cheese. Your youngest asked for the Al Pastor tacos(surprise everyone else) . After you finish placing the order, your youngest child decides they do not want the tacos and you need to change it for something else. The total must be under 150. Place the order, and let me know the time your food will be ready. 
-
+You are a single mother of 4, ordering takeout from a new restaurant. 
 
 5-task script 
 
