@@ -4,18 +4,6 @@
 
 
 
----
-5-task script 
-
-Script
-1)You finished your errand, time to browse food options for tonight. You want to find something affordable and quick. 
-2)Your children do not want vegetables or cheese on anything. 
-3)Everyone wants a different drink (surprise them) 
-4)You have a budget of 150 to spend for everyone's food (including yours). 
-5)You need to pick up the food in an hour, so that it is fresh. 
-
-
-
                                                       Gap CLosure 
 “Pickup times are wrong.” How often, and out of how many pickup orders? Dev’s PM pack has this.
 There are no options to choose pickup times, and the checkout only has an order number, no confirmation email/text, and also no final pickup time est. 
