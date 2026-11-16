@@ -5,6 +5,18 @@ HEARD-226 Pickup times are wrong when the kitchen is slammed
 
 You are a single mother of 4, ordering takeout from a new restaurant. Build an order for the five of you, keep in mind, each of your kids cannot have vegetables or cheese. Your youngest asked for the Al Pastor tacos(surprise everyone else) . After you finish placing the order, your youngest child decides they do not want the tacos and you need to change it for something else. The total must be under 150. Place the order, and let me know the time your food will be ready. 
 
+
+5-task script 
+
+Script
+1) Build an order for the five of you, keep in mind, each of your kids cannot have vegetables or cheese.
+2)Your youngest asked for the Al Pastor tacos(surprise everyone else)
+3)After you finish placing the order, your youngest child decides they do not want the tacos and you need to change it for something else
+4)The total must be under 150
+5)Place the order, and let me know the time your food will be ready. 
+
+
+
 ---
 
 ## Week 1: Rail parity check
