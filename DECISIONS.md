@@ -48,6 +48,10 @@ The constraints of having no tooltip, no popover, no accordion, table, paginatio
 - What would kill it?:Users do not read over the summary, and are confused when arriving at restaurant
 
 
+                                                      Rail.md Components used
+  - I would most likely use .rail-card to create a div for text information for option c. I
+  - For option b, one could use .rail-select__dropdown ,rail-select--open, .rail-select__option, to add the dropdown options for pickup times. I would also use aria-live and badge under toast section of rail.md to send live updates of pickup tines.
+  - For option a, I would use a card, that had .rail-button, to indicate the dropdown interactivity before users continued checkout process. 
 
 
 
