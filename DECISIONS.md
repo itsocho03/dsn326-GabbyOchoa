@@ -55,5 +55,16 @@ The constraints of having no tooltip, no popover, no accordion, table, paginatio
 
 
 
+---------
+
+                                              Week 4: Studio A - Direction and Constraint
+Marisol, thank you for your feedback. My followup question is, does the estimate not being able to change mean that the set expected time set by the restaurant for guests to see cannot change (no matter the rush or delay)? During my week two experiments, 2 of 3 participants felt the order process felt incomplete due to the lack of a detailed confirmation page. At the end of both tests, the participants asked me how to see or change pickup time (which you cannot) . 
+
+I accept that the estimate does not have to change, in order to fix the gap in information users experience during the checkout process. I choose option c, it leaves the estimate alone because it leaves changes or questions of pickup times up to a direct phone call to the restaurant itself. I would most likely drop B just for the higher difficulty and change to the system it would bring. 
+
+In option C, during a rush guests are given a pickup time with a choice to update it if they call. However, the tradeoff is that users would most likely get the wrong pickup time for an order during a rush and could lead to negative reviews and experiences for the guest at pickup.The changes being made to create option c, are easily reversible, cost effective, and simple. The reversibility would not cause a burden to the system. 
+
+
+
 
 
